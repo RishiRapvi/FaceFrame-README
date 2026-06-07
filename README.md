@@ -1,5 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/28686199/README.1.md)
-
 # FaceFrame 👓
 ### AI-Powered Real-Time Glasses Try-On
 
