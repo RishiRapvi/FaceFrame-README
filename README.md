@@ -1,3 +1,5 @@
+[README (1).md](https://github.com/user-attachments/files/28686199/README.1.md)
+
 # FaceFrame 👓
 ### AI-Powered Real-Time Glasses Try-On
 
@@ -29,7 +31,7 @@ FaceFrame uses computer vision and machine learning to analyze your face in real
 
 ## Architecture
 
-
+```
 Camera Feed
     │
     ▼
@@ -49,7 +51,7 @@ Frame Recommendation Engine
     │
     ▼
 Real-Time AR Overlay
-
+```
 
 ---
 
@@ -85,5 +87,5 @@ Built by a multidisciplinary student team at **The Ohio State University**.
 
 ## Contact
 
-**Rishi Singhvi** — Owner & Co-Founder
+**Rishi Singhvi** — CEO & Co-Founder
 [LinkedIn](https://www.linkedin.com/in/rishi-singhvi) · [rsinghvi7891@gmail.com](mailto:rsinghvi7891@gmail.com) · [faceframeai.com](https://faceframeai.com)
